@@ -1,4 +1,4 @@
-# React Native Navigation
+# React Native Intro
 
 A Rangle-U Presentation
 
@@ -54,13 +54,13 @@ A Rangle-U Presentation
 
 ---
 
-# Exercise 1: Styling a ListView + Creating Row Component
+# Styling a ListView
 <img src="react-native-introduction/list-view-end.png"
- style="border: none; width: 315px;" />
+ style="border: none; width: 315px; height: 500px" />
 
 ---
 
-# Exercise 1: Styling a ListView + Creating Row Component
+# Styling a ListView
 - Acceptance criteria:
   + Header with a title and colour
   + Each row:
@@ -71,13 +71,13 @@ A Rangle-U Presentation
 
 ---
 
-# Exercise 1: Styling a ListView + Creating Row Component
+# Styling a ListView
 <img src="react-native-introduction/list-view-end-labelled.png"
- style="border: none; width: 315px;" />
+ style="border: none; width: 315px; height: 500px" />
 
 ---
 
-# Mobile Development Challenges: Brainstorm
+# Mobile Development Challenges
 
 - Interactive
 
@@ -98,14 +98,14 @@ A Rangle-U Presentation
 
 ---
 
-# Exercise 2: Creating a ScrollView
+# Creating a ScrollView
 
 <img src="react-native-introduction/scroll-view-end.png"
- style="border: none; width: 315px;" />
+ style="border: none; width: 315px; height: 500px;" />
 
 ---
 
-# Exercise 2: Creating a ScrollView
+# Creating a ScrollView
 
 - Acceptance criteria:
   + Header with a name and background colour
@@ -115,9 +115,9 @@ A Rangle-U Presentation
 
 ---
 
-# Exercise 2: Creating a ScrollView
+# Creating a ScrollView
 <img src="react-native-introduction/scroll-view-end-labelled.png"
- style="border: none; width: 315px;" />
+ style="border: none; width: 315px; height: 500px;" />
 
 ---
 
